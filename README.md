@@ -58,7 +58,7 @@ Relative to the other schools, with or without replacing the ninth graders’ ma
      ![reading_scores_by_grade_PyCitySchools](https://github.com/borkard/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_PyCitySchools.PNG)
 
    *Repeated School_District_Analysis without Thomas High School ninth graders' math & reading scores - Reading:*
-     ![reading_scores_by_grade_PyCitySchools_Challenge (https://github.com/borkard/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_PyCitySchools_Challenge.PNG)
+     ![reading_scores_by_grade_PyCitySchools_Challenge](https://github.com/borkard/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_PyCitySchools_Challenge.PNG)
 
 
 
