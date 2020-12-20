@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-WELL DEFINED PURPOSE GOES HERE OF THE SCHOOL DISTRICT ANALYSIS.
+An analysis was conducted using Pandas, Jupyter Notebook, and Python to provide insight into school performance trends and patterns using standardized test data for a school district. Upon discovering that the reading and math grades for Thomas High School ninth graders’ had been altered, the analysis was repeated after replacing the reading and math scores for the Thomas High School ninth graders’ with NaNs. Both analyses included developing a high-level snapshot of the district’s key metrics, an overview of the key metrics for each school, the top 5 and bottom 5 performing schools based on the overall passing rate, the average math and reading scores received by students in each grade level at each school, and the school performance based on the budget per student, school size, and the type of school.
 
 ## Results
 
@@ -98,4 +98,4 @@ Relative to the other schools, with or without replacing the ninth graders’ ma
 
 
 ## Summary
-After replacing the Thomas High School ninth graders’ math and reading scores with NaNs, there were a couple of changes in the analysis results on the district and school levels. For the district, by replacing the Thomas High School ninth graders’ math and reading scores with NaN, the “Average Math Score”, “Average Reading Score”, “% Passing Math”, and “% Passing Reading” all dropped slightly causing the “% Overall Passing” for the district as a whole to decrease by 0.1%. When comparing Thomas High School’s performance relative to other schools in the district, while it remained in the same standing, the “% Overall Passing” had decreased by over 0.3%. In the school summary for Thomas High School, the “Average Math Score” and “% Passing Math” decreased by 0.1 points and 0.1% respectively. Significantly, the “Average Reading Score” increased by 0.05 points, but the “% Passing Reading” decreased by 0.3%..
+After replacing the Thomas High School ninth graders’ math and reading scores with NaNs, there were a couple of changes in the analysis results on the district and school levels. For the district, by replacing the Thomas High School ninth graders’ math and reading scores with NaN, the “Average Math Score”, “Average Reading Score”, “% Passing Math”, and “% Passing Reading” all dropped slightly causing the “% Overall Passing” for the district as a whole to decrease by 0.1%. When comparing Thomas High School’s performance relative to other schools in the district, while it remained in the same standing, the “% Overall Passing” had decreased by over 0.3%. In the school summary for Thomas High School, the “Average Math Score” and “% Passing Math” decreased by 0.1 points and 0.1% respectively. Significantly, the “Average Reading Score” increased by 0.05 points, but the “% Passing Reading” decreased by 0.3%.
