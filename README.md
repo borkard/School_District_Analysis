@@ -20,7 +20,7 @@ By replacing the Thomas High School ninth graders’ math and reading scores wit
 
 ### **How is the school summary affected?**
 
-By replacing the Thomas High School ninth graders’ math and reading scores with NaNs, the school summary is affected for THS in particular in that the points and percentages for “Average Math Score”, “Average Reading Score”, “% Passing Math”, “% Passing Reading”, and “% Overall Passing” all decreased by less than a point or percent. Images of the school summaries before and after replacing the ninth graders’ math and reading scores are below.
+By replacing the Thomas High School ninth graders’ math and reading scores with NaNs, the school summary is affected for Thomas High School in particular in that the points and percentages for “Average Math Score” and “% Passing Math” decreased by less than a point or percent. The summary was also affected because the “Average Reading Score” increased by 0.5 points after replacing the ninth graders’ scores with NaNs, but the “% Passing Reading” decreased by 0.3%. The “% Overall Passing” also decreased by 0.3%. Images of the school summaries before and after replacing the ninth graders’ math and reading scores are below.
 
 *Original School_District_Analysis with Thomas High School ninth graders' math & reading scores:*
 ![school_summary_PyCitySchools](https://github.com/borkard/School_District_Analysis/blob/main/Resources/school_summary_PyCitySchools.PNG)
@@ -98,4 +98,4 @@ Relative to the other schools, with or without replacing the ninth graders’ ma
 
 
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After replacing the Thomas High School ninth graders’ math and reading scores with NaNs, there were a couple of changes in the analysis results on the district and school levels. For the district, by replacing the Thomas High School ninth graders’ math and reading scores with NaN, the “Average Math Score”, “Average Reading Score”, “% Passing Math”, and “% Passing Reading” all dropped slightly causing the “% Overall Passing” for the district as a whole to decrease by 0.1%. When comparing Thomas High School’s performance relative to other schools in the district, while it remained in the same standing, the “% Overall Passing” had decreased by over 0.3%. In the school summary for Thomas High School, the “Average Math Score” and “% Passing Math” decreased by 0.1 points and 0.1% respectively. Significantly, the “Average Reading Score” increased by 0.05 points, but the “% Passing Reading” decreased by 0.3%..
